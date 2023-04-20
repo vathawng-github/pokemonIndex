@@ -1,0 +1,62 @@
+@import url("https://use.typekit.net/mmm2omk.css");
+
+* {
+    font-family: "roboto", sans-serif;
+    font-style: normal;
+}
+
+.Header-container {
+    display: flex;
+    background-color: red;
+    justify-content: space-between;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+    /* margin-left: 10px; */
+}
+
+.middle {
+    display: flex;  
+    align-items: center;
+    color: white;
+}
+
+.middle > * {
+    margin: 30px;
+}
+
+h4:hover {
+    cursor: pointer;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    margin: 30px;
+}
+
+button {
+    background-color: rgb(244, 97, 97);
+    color: white;
+    border: none;
+    border-radius: 40px;
+    width: 100px;
+    height: 40px;
+    font-weight: 700;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+img {
+    margin: 10px;
+    width: 170px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}

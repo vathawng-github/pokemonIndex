@@ -1,0 +1,110 @@
+[
+    {
+      "name": "Pikachu",
+      "hp": "35",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/pikachu.png",
+      "type": "Electric",
+      "fav_attack": "Thunder Shock",
+      "height": "1'4 in",
+      "weight": "13 lbs"
+    },
+    {
+      "name": "Charizard",
+      "hp": "78",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/charizard.png",
+      "type": "Fire",
+      "fav_attack": "Fire Spin",
+      "height": "5'7 in",
+      "weight": "200 lbs"
+    },
+    {
+      "name": "Arcanine",
+      "hp": "90",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/arcanine.png",
+      "type": "Fire",
+      "fav_attack": "Heat Blast",
+      "height": "6'3 in",
+      "weight": "341 lbs"
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": "45",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/bulbasaur.png",
+      "type": "Grass",
+      "fav_attack": "Vine Whip",
+      "height": "2'4 in",
+      "weight": "15 lbs"
+    },
+    {
+      "name": "Venusaur",
+      "hp": "80",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/venusaur.png",
+      "type": "Grass",
+      "fav_attack": "Solar Beam",
+      "height": "6'7 in",
+      "weight": "221 lbs"
+    },
+    {
+      "name": "Charmander",
+      "hp": "39",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/charmander.png",
+      "type": "Fire",
+      "fav_attack": "Gnaw",
+      "height": "2'0 in",
+      "weight": "18 lbs"
+    },
+    {
+      "name": "Squirtle",
+      "hp": "44",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/squirtle.png",
+      "type": "Water",
+      "fav_attack": "Water Gun",
+      "height": "1'8 in",
+      "weight": "19 lbs"
+    },
+    {
+      "name": "Blastoise",
+      "hp": "79",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/blastoise.png",
+      "type": "Water",
+      "fav_attack": "Hydro Pump",
+      "height": "5'3 in",
+      "weight": "189 lbs"
+    },
+    {
+      "name": "Metapod",
+      "hp": "50",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/metapod.png",
+      "type": "Bug",
+      "fav_attack": "Exoskeleton",
+      "height": "2'4 in",
+      "weight": "21 lbs"
+    },
+    {
+      "name": "Rattata",
+      "hp": "30",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/rattata.png",
+      "type": "Normal",
+      "fav_attack": "Exoskeleton",
+      "height": "1'0 in",
+      "weight": "8 lbs"
+    },
+    {
+      "name": "Ekans",
+      "hp": "35",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/ekans.png",
+      "type": "Poison",
+      "fav_attack": "Poison Sting",
+      "height": "6'7 in",
+      "weight": "15 lbs"
+    },
+    {
+      "name": "Clefairy",
+      "hp": "70",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/clefairy.png",
+      "type": "Fairy",
+      "fav_attack": "Moon Light",
+      "height": "2'0 in",
+      "weight": "16 lbs"
+    }
+  ]
