@@ -37,6 +37,9 @@ h4:hover {
     margin: 30px;
 }
 
+.right > * {
+    margin: 0 10px;
+}
 button {
     background-color: rgb(244, 97, 97);
     color: white;

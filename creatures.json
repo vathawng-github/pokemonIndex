@@ -106,5 +106,209 @@
       "fav_attack": "Moon Light",
       "height": "2'0 in",
       "weight": "16 lbs"
+    },
+    {
+      "name": "Rattata",
+      "hp": "30",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/rattata.png",
+      "type": "Normal",
+      "fav_attack": "Exoskeleton",
+      "height": "1'0 in",
+      "weight": "8 lbs"
+    },
+
+    {
+      "name": "Aipom",
+      "hp": "30",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/aipom.png",
+      "type": "Normal",
+      "fav_attack": "Run Away",
+      "height": "2'07 in",
+      "weight": "25.4 lbs"
+    },
+    {
+      "name": "Articuno",
+      "hp": "58",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/articuno.png",
+      "type": "Ice",
+      "fav_attack": "Steadfast",
+      "height": "5'0 in",
+      "weight": "20 lbs"
+    },
+    {
+      "name": "Cleffa",
+      "hp": "100",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/cleffa.png",
+      "type": "Fairy",
+      "fav_attack": "Cute Charm",
+      "height": "1'0 in",
+      "weight": "6.6 lbs"
+    },
+    {
+      "name": "Igglybuff",
+      "hp": "40",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/igglybuff.png",
+      "type": "Normal",
+      "fav_attack": "Steadfast",
+      "height": "1'0 in",
+      "weight": "2.2 lbs"
+    },
+    {
+      "name": "Togepi",
+      "hp": "40",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/togepi.png",
+      "type": "Fairy",
+      "fav_attack": "Serence Grace",
+      "height": "1'0 in",
+      "weight": "3.3 lbs"
+    },
+    {
+      "name": "Togetic",
+      "hp": "44",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/togetic.png",
+      "type": "Flying",
+      "fav_attack": "Hustle",
+      "height": "2'0 in",
+      "weight": "7.1 lbs"
+    },
+    {
+      "name": "Natu",
+      "hp": "49",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/natu.png",
+      "type": "Psychic",
+      "fav_attack": "Early Bird",
+      "height": "0'08 in",
+      "weight": "4.4 lbs"
+    },
+    {
+      "name": "Mareep",
+      "hp": "15",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/mareep.png",
+      "type": "Electric",
+      "fav_attack": "Static",
+      "height": "2'00 in",
+      "weight": "17.2 lbs"
     }
-  ]
+    ,
+    {
+      "name": "Flaaffy",
+      "hp": "67",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/flaaffy.png",
+      "type": "Electric",
+      "fav_attack": "Static",
+      "height": "2'00 in",
+      "weight": "29.3 lbs"
+    }
+    ,
+    {
+      "name": "Ampharos",
+      "hp": "135",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/ampharos.png",
+      "type": "Electric",
+      "fav_attack": "Static",
+      "height": "4'07 in",
+      "weight": "135.6 lbs"
+    }
+    ,
+    {
+      "name": "Bellossom",
+      "hp": "58",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/bellossom.png",
+      "type": "Grass",
+      "fav_attack": "Chlorophyll",
+      "height": "1'04 in",
+      "weight": "12.8 lbs"
+    },
+    {
+      "name": "Marill",
+      "hp": "23",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/marill.png",
+      "type": "Electric",
+      "fav_attack": "Thick Fat",
+      "height": "1'00 in",
+      "weight": "18.7 lbs"
+    },
+    {
+      "name": "Sudowoodo",
+      "hp": "108",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/sudowoodo.png",
+      "type": "Rock",
+      "fav_attack": "Sturdy",
+      "height": "3'11 in",
+      "weight": "83.8 lbs"
+    },
+    {
+      "name": "Politoed",
+      "hp": "123",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/politoed.png",
+      "type": "Water",
+      "fav_attack": "Damp",
+      "height": "3'07 in",
+      "weight": "74.7 lbs"
+    },
+    {
+      "name": "Hoppip",
+      "hp": "43",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/hoppip.png",
+      "type": "Grass",
+      "fav_attack": "Leaf Guard",
+      "height": "1'04 in",
+      "weight": "1.1 lbs"
+    },
+    {
+      "name": "Skiploom",
+      "hp": "135",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/skiploom.png",
+      "type": "Grass",
+      "fav_attack": "Leaf Guard",
+      "height": "2'00 in",
+      "weight": "2.2 lbs"
+    },
+    {
+      "name": "Jumpluff",
+      "hp": "44",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/jumpluff.png",
+      "type": "Grass",
+      "fav_attack": "Leaf Guard",
+      "height": "2'07 in",
+      "weight": "6.6 lbs"
+    }
+    ,
+    {
+      "name": "Sunkern",
+      "hp": "61",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/sunkern.png",
+      "type": "Grass",
+      "fav_attack": "Solar Power",
+      "height": "1'00 in",
+      "weight": "4.0 lbs"
+    },
+    {
+      "name": "Sunflora",
+      "hp": "65",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/sunflora.png",
+      "type": "Grass",
+      "fav_attack": "Solar Power",
+      "height": "2'00 in",
+      "weight": "18.7 lbs"
+    },
+    {
+      "name": "Yanma",
+      "hp": "61",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/yanma.png",
+      "type": "Bug",
+      "fav_attack": "Speed Boost",
+      "height": "3'11 in",
+      "weight": "83.8 lbs"
+    }
+    ,
+    {
+      "name": "Wooper",
+      "hp": "12",
+      "image": "https://storage.googleapis.com/sp23-41200-pokemon-images/wooper.png",
+      "type": "Water",
+      "fav_attack": "Damp",
+      "height": "1'04 in",
+      "weight": "18.7 lbs"
+    }
+]

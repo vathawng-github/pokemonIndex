@@ -74,3 +74,11 @@ h2 {
     padding-left: 10px;
     box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.466);
 }
+
+
+@media screen and (max-width: 1400px) {
+    #emailImg,
+    #goImg {
+        display: none;
+    }
+}

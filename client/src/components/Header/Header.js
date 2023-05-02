@@ -13,9 +13,10 @@ function Header() {
                 <div className = "middle">
                     <h4><a href = {`/Browse`}>BROWSE</a></h4>
                     <h4><a href = {`/Contribute`}>CONTRIBUTE</a></h4>
-                    <h4>NEW</h4>
+                    <h4><a href = {`/NewCollection`}>NEW</a></h4>
                 </div>
                 <div className = "right">
+                    <h4><a href = {`/Login`}>LOG IN</a></h4>
                     <button type = "submit"><a href = {`/Form`}>JOIN</a></button>
                 </div>
         </div>

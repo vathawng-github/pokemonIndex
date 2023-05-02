@@ -1,14 +1,15 @@
-import Card from '../../components/Card/Card';
 import Header from '../../components/Header/Header';
-import './Browse.css';
+import './New.css';
+
+import NewCard from '../../components/NewCard/NewCard';
 
 import { useState, useEffect, useContext } from 'react';
 import axios from 'axios';
 
 import { APIURLContext } from "../../contexts/APIURLContext";
 
-function Browse() {
-    // Set up initial state of state variables
+function New () {
+
     const [ creatures, setCreatures ] = useState([]);
     const [ loading, setLoading ] = useState(false);
     const [ error, setError ] = useState('');
@@ -19,9 +20,9 @@ function Browse() {
     useEffect(() => {
         const loadCreatures = async () => {
             try {
-                const response = await axios.get(`${apiURL}/creatures`);
+                const response = await axios.get(`${apiURL}/newCreatures`);
                 console.log(response.data);
-                setCreatures( (creatures) => [...response.data]);
+                setCreatures( (creatures) => [...response.data]);   
                 setLoading(false);
             } catch (err) {
                 setLoading(false);
@@ -36,12 +37,12 @@ function Browse() {
     return(
         <>
             <Header />
+            <h1>Our New Collection</h1>
             <div className='card-container'>
                 {creatures.map((card) => (
-                    <Card 
+                    <NewCard 
                         name = {card.name} 
                         hp = {card.hp}
-                        image = {card.image}
                         type = {card.type}
                         fav_attack = {card.fav_attack}
                         height = {card.height}
@@ -52,6 +53,6 @@ function Browse() {
         </>
         
     )
-};
+}
 
-export default Browse;
+export default New;
