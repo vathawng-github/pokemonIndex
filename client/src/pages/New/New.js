@@ -20,7 +20,7 @@ function New () {
     useEffect(() => {
         const loadCreatures = async () => {
             try {
-                const response = await axios.get(`${apiURL}/newCreatures`);
+                const response = await axios.get(`${apiURL}/api/v1/newCreatures`);
                 console.log(response.data);
                 setCreatures( (creatures) => [...response.data]);   
                 setLoading(false);

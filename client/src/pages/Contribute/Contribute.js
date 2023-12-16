@@ -38,7 +38,7 @@ function Contribute () {
         const newResponse = await addToNewCollection(contributeData);
         // console.log(`New Response: ${newResponse.name}`);
         if (newResponse == null) {
-            alert("Please complete the form.");
+            alert("Thank You!");
         } else {
             navigate(`/NewCollection`);
         }
@@ -46,7 +46,7 @@ function Contribute () {
 
     async function addToNewCollection(pokemonAttributes) {
         try {
-            let res = await axios.post(apiURL + "/newPokemon", pokemonAttributes);
+            let res = await axios.post(apiURL + "/api/v1/newPokemon", pokemonAttributes);
             console.log(res.data);
             return res.data;
         } catch (err) {

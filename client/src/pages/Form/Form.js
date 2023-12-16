@@ -63,7 +63,7 @@ function Form() {
         const newResponse = await addNewUser(userData);
         // console.log(`New Response: ${newResponse.name}`);
         if (newResponse == null) {
-            alert("Please complete the form.");
+            alert("Thank You!");
         } else {
             navigate(`/`);
         }
@@ -71,7 +71,7 @@ function Form() {
 
     async function addNewUser(userAttributes) {
         try {
-            let res = await axios.post(apiURL + "/newUser", userAttributes);
+            let res = await axios.post(apiURL + "/api/v1/newUser", userAttributes);
             console.log(res.data);
             return res.data;
         } catch (err) {

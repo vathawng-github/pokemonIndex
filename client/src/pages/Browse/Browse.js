@@ -19,7 +19,7 @@ function Browse() {
     useEffect(() => {
         const loadCreatures = async () => {
             try {
-                const response = await axios.get(`${apiURL}/creatures`);
+                const response = await axios.get(`${apiURL}/api/v1/creatures`);
                 console.log(response.data);
                 setCreatures( (creatures) => [...response.data]);
                 setLoading(false);

@@ -36,7 +36,6 @@ router.get('/newCreatures', async (req,res) => {
     });
 
     // Return newObjects array
-    
 })
 
 router.post('/newPokemon', async (req, res) => {
